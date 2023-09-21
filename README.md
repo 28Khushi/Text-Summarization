@@ -12,4 +12,3 @@
 8.Update the app.py
 
 
-https://github.com/28Khushi/Text-Summarization/raw/main/samsumdata.zip
