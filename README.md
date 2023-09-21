@@ -10,3 +10,6 @@
 6.Update the pipeline
 7.Update the main.py
 8.Update the app.py
+
+
+https://github.com/28Khushi/Text-Summarization/raw/main/samsumdata.zip
